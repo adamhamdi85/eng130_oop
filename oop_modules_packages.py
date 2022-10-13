@@ -1,11 +1,3 @@
-# Python Object Oriented Programming
-## 4 Pillars of OOP
-### methods/functions
-#### Modules
-##### Lib - Packages
-
-#### use case - benefits - examples of builtin modules - packages
-```python
 # lucky draw
 # key word called import
 #import random
@@ -39,4 +31,3 @@ number = 23.66
 # number 1.49 or less round down to 1
 print(math.ceil(number))  # ceil will help round up
 print(math.floor(number))  # floor will help round down
-```
