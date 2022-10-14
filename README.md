@@ -112,4 +112,4 @@ print(divide(2,2))
 - step 3: snake.py and inherit  from reptile
 - step 4: python_oop.py
 
-![](https://i.imgur.com/axXRy82.png)
+![img.png](img.png)
