@@ -103,3 +103,11 @@ print(divide(2,2))
 
 
 ```
+
+####OOP code along diagram
+
+- step 1: create animal.py as a parent
+  
+- step 2: create reptile.py as a child to inherit - abstract etc.
+- step 3: snake.py and inherit  from reptile
+- step 4: python_oop.py
